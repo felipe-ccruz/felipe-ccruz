@@ -2,7 +2,9 @@
 
 ----
 
-🚀 Tenho interesse em *Desenvolvimento em Java*
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Development☕;Spring+Framework🍃;Always+Learning📚&center=true&width=380&height=45">
+</div>
 
 ----
 
