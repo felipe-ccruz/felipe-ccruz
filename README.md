@@ -1,8 +1,17 @@
 ## ***Hi, This is my Github Profile*** :octocat:
 
+
+<br></br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Development☕;Spring+Framework🍃;Always+Learning📚&center=true&width=380&height=45">
 </div>
+<br></br>
+<br></br>
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+</div>
+<br></br>
 
 ----
 
@@ -24,9 +33,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---- 
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
-</div>
 
 ## 🦉 Entre em Contato
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-claudino-cruz-26695a2b1)
