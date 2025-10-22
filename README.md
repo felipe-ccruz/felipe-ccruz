@@ -3,7 +3,7 @@
 
 <br></br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer☕;Spring+Framework🍃;Always+Learning📚&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer☕;Spring+Boot🍃;Always+Learning📚&center=true&width=380&height=45">
 </div>
 <br></br>
 <br></br>
